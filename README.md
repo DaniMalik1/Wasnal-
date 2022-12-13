@@ -1,4 +1,4 @@
-# Wasnal-Dani Malik Free Random&File cloning
+# Wasnal
 
 
 pkg update
